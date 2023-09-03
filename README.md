@@ -427,10 +427,10 @@ Tools: Tableau.
 ![Bike type](Visuals/Bike_type.png)
 
 ### 4) Number of trips by the day of week
-![Weekday](<Visuals/Weekday (2).png>)
+![Weekday](<Visuals/Weekday.png>)
 
 ### 5) Number of trips by month
-![Month](Visuals/Month_3.png)
+![Month](Visuals/Month.png)
 
 ### 6) Number of trips by season
 ![Season](Visuals/Season.png)
